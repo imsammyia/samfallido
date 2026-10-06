@@ -1,0 +1,13 @@
+{
+  "name": "sam-software/management-services",
+  "description": "Inventario y asistencia por organizaciones para Sam Software",
+  "type": "project",
+  "require": {
+    "php": ">=8.0",
+    "phpmailer/phpmailer": "^6.9"
+  },
+  "config": {
+    "allow-plugins": {},
+    "sort-packages": true
+  }
+}
